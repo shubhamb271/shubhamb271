@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamb271
-- 👀 I’m interested in IOT, automation, data science, AI and many more.
+- 👀 I’m interested in IOT, automation, data science, AI and much more.
 - 🌱 I’m currently learning Data Science and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Iot projects, web development, app development.
 - 📫 My Email is shubhambhatia543@gmail.com.
